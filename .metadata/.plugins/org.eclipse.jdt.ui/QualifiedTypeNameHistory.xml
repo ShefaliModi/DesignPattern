@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="factory.MyApplication"/>
+<fullyQualifiedTypeName name="factory.Document"/>
+<fullyQualifiedTypeName name="factory.DrawingDocument"/>
+<fullyQualifiedTypeName name="factory.ExcelDocument"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="abstractFactory.MobileWindow"/>
+<fullyQualifiedTypeName name="abstractFactory.MobileScrollBar"/>
+<fullyQualifiedTypeName name="abstractFactory.MobileWidgetFactory"/>
+<fullyQualifiedTypeName name="abstractFactory.DesktopWidgetFactory"/>
+<fullyQualifiedTypeName name="abstractFactory.WidgetFactory"/>
+<fullyQualifiedTypeName name="abstractFactory.FactoryProvider"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="compositeDesignPattern.Line"/>
+<fullyQualifiedTypeName name="compositeDesignPattern.Picture"/>
+<fullyQualifiedTypeName name="compositeDesignPattern.Circle"/>
+<fullyQualifiedTypeName name="decoratorDesignPattern.Decorator"/>
+<fullyQualifiedTypeName name="decoratorDesignPattern.ColorDecorator"/>
+<fullyQualifiedTypeName name="decoratorDesignPattern.VisualComponent"/>
+<fullyQualifiedTypeName name="decoratorDesignPattern.Text"/>
+<fullyQualifiedTypeName name="observerDesignPattern.Observer"/>
+<fullyQualifiedTypeName name="observerDesignPattern.ConcreteObserverA"/>
+<fullyQualifiedTypeName name="observerDesignPattern.ConcreteSubject"/>
+<fullyQualifiedTypeName name="java.util.Observable"/>
+<fullyQualifiedTypeName name="singleton.Singleton"/>
+<fullyQualifiedTypeName name="StrategyDesignPattern.SimpleCompositor"/>
+<fullyQualifiedTypeName name="StrategyDesignPattern.TeXCompositor"/>
+<fullyQualifiedTypeName name="StrategyDesignPattern.ArrayCompositor"/>
+</qualifiedTypeNameHistroy>

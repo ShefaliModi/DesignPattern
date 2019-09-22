@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;compositeDesignPattern.Graphics.java&apos; to &apos;Graphic.java&apos;&#x0A;- Original project: &apos;StructuralDesignPattern&apos;&#x0A;- Original element: &apos;compositeDesignPattern.Graphics.java&apos;&#x0A;- Renamed element: &apos;compositeDesignPattern.Graphic.java&apos;" description="Rename compilation unit &apos;Graphics.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;compositeDesignPattern{Graphics.java" name="Graphic.java" references="false" stamp="1567428402951" version="1.0"/>
+</session>

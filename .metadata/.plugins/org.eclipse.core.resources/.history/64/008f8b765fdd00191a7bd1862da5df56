@@ -1,0 +1,9 @@
+package StrategyDesignPattern;
+
+public class Composition {
+	
+	public void traverse() {
+		
+	}
+
+}

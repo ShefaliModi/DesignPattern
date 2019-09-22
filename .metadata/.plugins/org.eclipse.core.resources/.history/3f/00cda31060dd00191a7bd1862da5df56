@@ -1,0 +1,16 @@
+package StrategyDesignPattern;
+
+public class Composition {
+	
+	private Compositor compositor;
+	
+	public void traverse() {
+		System.out.println("data has been read");
+		
+	}
+	
+	public void repair() {
+		compositor.compose();
+	}
+
+}
